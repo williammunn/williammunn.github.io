@@ -1,2 +1,1 @@
-# williammunn.github.io
-Some text
+# Blog of William Munn
